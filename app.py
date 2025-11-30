@@ -81,7 +81,7 @@ if st.button("🔍 Predict Diabetes Risk", type="primary"):
     st.warning("""
     **⚠️ Medical Disclaimer**: This tool is for educational purposes only and should NOT be used 
     as a substitute for professional medical advice, diagnosis, or treatment. Always consult 
-    with a qualified healthcare provider for medical concerns.
+    with a qualified healthcare provider for medical concerns. Made by anh Đăng đẹp trai
     """)
 
 # Sidebar
