@@ -63,9 +63,9 @@ if st.button("🔍 Predict Diabetes Risk", type="primary"):
     st.subheader("Prediction Results")
     
     if prediction == 1:
-        st.error("⚠️ **High Risk**: The model indicates a high likelihood of diabetes.")
+        st.error("⚠️ **High Risk**: The model indicates a high likelihood of diabetes. Bro cần phải đi gym nhiều hơn!!!")
     else:
-        st.success("✅ **Low Risk**: The model indicates a low likelihood of diabetes.")
+        st.success("✅ **Low Risk**: The model indicates a low likelihood of diabetes. Ní này còn cú được yên tâm nha")
     
     # Display input summary
     with st.expander("📊 View Input Summary"):
